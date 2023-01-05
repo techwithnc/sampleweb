@@ -1,2 +1,2 @@
 # sampleweb
-repository for sample web site.
+I've used this sample HTML code for testing web server.
